@@ -109,7 +109,7 @@ platforms:
   - id: "gelonghui"
     name: "格隆汇"
   - id: "xueqiu"
-    name: "雪球"
+    name: "雪球热门股票"
   - id: "jin10"
     name: "金十数据"
   - id: "fastbull"
@@ -117,17 +117,17 @@ platforms:
 
   # === 社交/短视频/娱乐类 ===
   - id: "weibo"
-    name: "微博"
+    name: "微博热搜"
   - id: "douyin"
-    name: "抖音"
+    name: "抖音热搜"
   - id: "bilibili-hot-search"
-    name: "bilibili 热搜"
+    name: "bilibili热搜"
   - id: "tieba"
-    name: "贴吧"
+    name: "贴吧热帖"
   - id: "zhihu"
-    name: "知乎"
+    name: "知乎热门问答"
   - id: "hupu"
-    name: "虎扑"
+    name: "虎扑热贴"
 
   # === 科技类平台 ===
   - id: "ithome"
